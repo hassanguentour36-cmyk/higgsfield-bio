@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hassanguentour36-cmyk.github.io/higgsfield-bio/sitemap.xml

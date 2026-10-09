@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Prompt better favicon">
+  <defs>
+    <linearGradient id="g1" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#E8336A"/>
+      <stop offset="100%" stop-color="#3A66FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="18" fill="#F6F1FF"/>
+  <path d="M18 22h18c6.6 0 12 5.4 12 12v8c0 6.6-5.4 12-12 12H18V22zm10 9v14m14-14v14M18 29h28" stroke="url(#g1)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
